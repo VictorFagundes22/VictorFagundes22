@@ -10,7 +10,7 @@
 
 <p align="center"><img src="https://camo.githubusercontent.com/cb9809a116e700426c84ac6e5a92b6631f6fe786f22c77a824e68d499f200687/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d7265637426636f6c6f723d6772616469656e74266865696768743d32"/></p>
 
-<h3 align="center">I'm a 20 year old, currently based in São Paulo :brazil:</h3> 
+<h3 align="center">I'm a 20 year old Data Analyst, currently based in São Paulo :brazil:</h3> 
          <h3 align="center">Looking for Data Analyst Jobs
 
  <h2 align="center">Currently studying:computer:</h2>
